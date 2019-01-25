@@ -15,3 +15,8 @@ Start with
 ```
 ./docker/start.sh
 ```
+
+Open CodeScene in Browser
+```
+open http://localhost:3003
+```
